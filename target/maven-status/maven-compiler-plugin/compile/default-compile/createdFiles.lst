@@ -1,0 +1,6 @@
+com\Housing\Dao\mySqlDaoJPA.class
+com\Housing\HousingMS\HousingMsApplication.class
+com\Housing\Controller\HousingController.class
+com\Housing\Model\HouseModel.class
+com\Housing\Service\HousingService.class
+com\HousingConstants\Constants.class
